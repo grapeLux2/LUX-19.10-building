@@ -26,12 +26,10 @@ cd ../../../../
 cd libqrencode.so.3
 
 sudo cp libqrencode.so.3 /usr/lib/
-sudo cp libqrencode.so.3.4.4 /usr/lib/
 
 cd ..
 cd libprotobuf10
 
-sudo cp libprotobuf.so.10.0.0 /usr/lib/
 sudo cp libprotobuf.so.10 /usr/lib/
 
 cd ..
